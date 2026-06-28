@@ -6,7 +6,7 @@
 """
 HOMEWORK GROUP:
                 EDMOND Dorhys H. Kelly
-                CORNER Ezna
+                CORNEt Ezna
                 BOUZY Worlder
 """
 from dataclasses import dataclass,field
