@@ -3,6 +3,12 @@
                    STAFF ENTITIE HERE
 ======================================================
 '''
+"""
+HOMEWORK GROUP:
+                EDMOND Dorhys H. Kelly
+                CORNER Ezna
+                BOUZY Worlder
+"""
 from dataclasses import dataclass,field
 from enum import Enum
 import uuid
